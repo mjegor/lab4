@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 somthing ok
+=======
+ok
+>>>>>>> 90c48ea2780b620e1fe781549f086a9f0cbd18cc
